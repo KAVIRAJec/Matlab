@@ -4,7 +4,7 @@
 
 - **Matrices Operations:** Demonstrates how to get user input for matrices and perform operations such as addition, subtraction, multiplication, and inversion.
 - **Circuit Solver:** Includes MATLAB code to solve circuits using MATLAB's circuit analysis capabilities.
-- **GUI Development:** Showcases GUI development using MATLAB's graphical user interface tools.
+- **GUI Development:** Showcases GUI development using MATLAB's graphical user interface tools.I developed Simple Calculator, Slider and Text editor.
 - **Signal Processing:** 
    - ****Continuous to Discrete Signal Conversion:** Code examples for converting continuous signals to discrete signals.
    - **Generation and Manipulation of Basic Signals:** Examples of generating and manipulating ramp, step, exponential, sine, and cosine signals.
