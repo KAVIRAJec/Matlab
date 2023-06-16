@@ -1,7 +1,7 @@
 clc;
 clear all;
 close all;
-x=imread('C:\Users\Student\Downloads\download.jpeg');
+x=imread('C:\Users\Student\Downloads\Your-image.jpeg');
 imshow(x);
 figure;
 se=strel('disk',35);
