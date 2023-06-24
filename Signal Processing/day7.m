@@ -1,0 +1,18 @@
+clc;
+clear all;
+close all;
+          Fs=1000;
+Ts=1/Fs;
+dt=0:Ts:5-Ts;
+f1=10;
+f2=30;
+f3=70;
+y1=10*sin(2*pi*dt*f1);
+y2=10*sin(2*pi*dt*f2);
+y3=10*sin(2*pi*dt*f3);
+y4=y1+y2+y3;
+nfft=length(y4);
+nfft2=2^nextpow2(nfft);
+ff=fft(y4,nfft2);
+fff=ff(1:nfft2/2);
+plot(abs(fff));
