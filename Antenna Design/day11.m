@@ -1,5 +1,5 @@
 %This Code was Written By Nemeen Shah
-%Subscribe to My YouTube Channel: https://Youtube.com/NematicsLab
+%Subscribe to my YouTube Channel: https://Youtube.com/NematicsLab
 %Size of PCB
 pcbThickness = 1.6e-3;  %1.6mm
 pcbLength = 152.4e-3;   %152.4mm or 6inch
