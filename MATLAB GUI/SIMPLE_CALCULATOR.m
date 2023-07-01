@@ -85,7 +85,6 @@ set(handles.IN2,'string','');
 set(handles.OUT,'string','');
 
 
-
 function OUT_Callback(hObject, eventdata, handles)
 % hObject    handle to OUT (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
